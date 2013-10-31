@@ -1,0 +1,68 @@
+<idea-plugin version="2">
+    <id>org.verily.intellij.plugin</id>
+    <name>VerilyIdeaPlugin</name>
+    <version>1.0</version>
+    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+
+
+    <depends>org.jetbrains.idea.maven</depends>
+
+    <description><![CDATA[
+      Enter short description for your plugin here.<br>
+      <small>most HTML tags may be used</small>
+      ]]></description>
+
+    <change-notes><![CDATA[
+      Add change notes here.<br>
+      <small>most HTML tags may be used</small>
+      ]]>
+    </change-notes>
+
+    <!-- please see http://confluence.jetbrains.net/display/IDEADEV/Build+Number+Ranges for description -->
+    <idea-version since-build="107.105"/>
+
+    <!-- please see http://confluence.jetbrains.net/display/IDEADEV/Plugin+Compatibility+with+IntelliJ+Platform+Products
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <application-components>
+        <!-- Add your application components here -->
+    </application-components>
+
+    <project-components>
+        <!-- Add your project components here -->
+    </project-components>
+
+    <actions>
+
+
+        <action id="Verily.CreateNewMethod" class="verily.actions.VerilyAddNewMethodRouterPair"  icon="/icons/verily_16x16.png"
+                text="Add New Verily Method" description="Adds a new Verily Method and Router pair">
+            <add-to-group group-id="NewGroup1" />
+        </action>
+
+
+
+        <action id="Verily.Run" class="verily.actions.VerilyRunApp" icon="/icons/verily_16x16.png" text="Run Verily App"
+                description="Starts a Verily Application in the console">
+            <add-to-group group-id="ProjectViewPopupMenu" anchor="after"
+                          relative-to-action="ProjectViewPopupMenuRunGroup"/>
+        </action>
+    </actions>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+        <sdkType id="VERILY" implementation="verily.sdk.VerilySdkType"/>
+        <!--<library.type implementation="verily.library.VerilyLibraryType"/>-->
+
+        <toolWindow id="Verily Messages" icon="/icons/verily_16x16.png" anchor="bottom" factoryClass="verily.tools.VerilyToolWindow"/>
+        <frameworkSupport implementation="verily.facet.VerilyFrameworkSupportProvider"/>
+        <!--<moduleType  id="VERILY_MODULE" classpathProvider="false" implementationClass="verily.module.VerilyModuleType" />-->
+        <moduleBuilder id="VERILY_MVN_MODULE" builderClass="verily.module.VerilyMavenModuleBuilder" />
+        <configurationType implementation="verily.run.VerilyRunConfigurationType"/>
+
+        <!--<projectConfigurable instance="verily.wizard.ConfigureProjectVerilySDK" />-->
+    </extensions>
+</idea-plugin>
