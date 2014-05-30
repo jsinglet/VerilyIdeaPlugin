@@ -13,6 +13,8 @@ public class ProgramParamsPanel {
     private JCheckBox openBrowserAtLaunchCheckBox;
     private JTextField port;
     private JTextField jvmOptions;
+    private JCheckBox enableContractsCheckBox;
+    private JCheckBox disableStaticCheckingCheckBox;
 
     ProgramParamsPanel(Module[] modules) {
         // some default values
@@ -35,6 +37,10 @@ public class ProgramParamsPanel {
         s.setLaunchBrowser(openBrowserAtLaunchCheckBox.isSelected());
         s.setReloadDeps(!doNotRecalculateDependenciesCheckBox.isSelected());
         s.setJvmOptions(jvmOptions.getText());
+
+        s.setDisableStaticChecking(disableStaticCheckingCheckBox.isSelected());
+        s.setEnableContracts(enableContractsCheckBox.isSelected());
+
 
         // in this case null indicates an error
         try {

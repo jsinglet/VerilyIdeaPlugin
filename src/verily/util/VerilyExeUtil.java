@@ -36,8 +36,20 @@ public class VerilyExeUtil {
         String java = new VerilySdkType().getVMExecutablePath(sdk);
 
 
+        //-z3 "C:\Program Files\Verily\tools\z3-4.3.0-win" -jml "C:\Program Files\Verily\tools\openjml"
+
         if(SystemInfo.isWindows){
-            return  new ProcessBuilder("java", "-classpath", String.format("\".;%s\\lib\\*\"", verilyRoot), "VerilyMain", "-init", String.format("./%s", name));
+            return  new ProcessBuilder(
+                    "java",
+                    "-classpath",
+                    String.format("\".;%s\\tools\\openjml-head\\jmlruntime.jar;%s\\lib\\*\"", verilyRoot, verilyRoot),
+                    "VerilyMain",
+
+                    "-z3", String.format("\"%s\\tools\\z3-4.3.0-win\"", verilyRoot),
+                    "-jml", String.format("\"%s\\tools\\openjml\"", verilyRoot),
+
+                    "-init", String.format("./%s", name)
+            );
         }else{
             return  new ProcessBuilder(String.format("%s/verily", verilyRoot), "-init", String.format("./%s", name));
         }
@@ -64,7 +76,16 @@ public class VerilyExeUtil {
 
 
         if(SystemInfo.isWindows){
-            return  new ProcessBuilder("java", "-classpath", String.format("\".;%s\\lib\\*\"", verilyRoot), "VerilyMain", "-run");
+            return  new ProcessBuilder("java",
+                    "-classpath",
+                    String.format("\".;%s\\tools\\openjml-head\\jmlruntime.jar;%s\\lib\\*\"", verilyRoot, verilyRoot),
+
+                    "VerilyMain",
+
+                    "-z3", String.format("\"%s\\tools\\z3-4.3.0-win\"", verilyRoot),
+                    "-jml", String.format("\"%s\\tools\\openjml\"", verilyRoot),
+
+                    "-run");
         }else{
             return  new ProcessBuilder(String.format("%s/verily", verilyRoot), "-run");
         }

@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14a93007-e931-4837-a493-5146b3697cf5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/icons/old/verily_16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/icons/verily_16x16_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/icons/verily_16x16_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/icons/old/verily_24x24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/icons/Thumbs.db" afterPath="$PROJECT_DIR$/src/icons/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VerilyIdeaPlugin.jar" afterPath="$PROJECT_DIR$/VerilyIdeaPlugin.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/icons/verily_16x16.png" afterPath="$PROJECT_DIR$/src/icons/verily_16x16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/icons/verily_24x24.png" afterPath="$PROJECT_DIR$/src/icons/verily_24x24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/actions/AddTemplateAction.java" afterPath="$PROJECT_DIR$/src/verily/actions/AddTemplateAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/wizard/ConfigureProjectVerilySDK.java" afterPath="$PROJECT_DIR$/src/verily/wizard/ConfigureProjectVerilySDK.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/ConfigureVerilySDK.form" afterPath="$PROJECT_DIR$/src/verily/ConfigureVerilySDK.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/ConfigureVerilySDK.java" afterPath="$PROJECT_DIR$/src/verily/ConfigureVerilySDK.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/wizard/ConfigureVerilySDKPanel.form" afterPath="$PROJECT_DIR$/src/verily/wizard/ConfigureVerilySDKPanel.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/wizard/ConfigureVerilySDKPanel.java" afterPath="$PROJECT_DIR$/src/verily/wizard/ConfigureVerilySDKPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/wizard/ConfigureVerilySDKWizardStep.java" afterPath="$PROJECT_DIR$/src/verily/wizard/ConfigureVerilySDKWizardStep.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/Constants.java" afterPath="$PROJECT_DIR$/src/verily/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.form" afterPath="$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.java" afterPath="$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/actions/VerilyAddNewMethodRouterPair.java" afterPath="$PROJECT_DIR$/src/verily/actions/VerilyAddNewMethodRouterPair.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/actions/VerilyAddPairAction.java" afterPath="$PROJECT_DIR$/src/verily/actions/VerilyAddPairAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/sdk/VerilyAdditionalDataConfiguration.java" afterPath="$PROJECT_DIR$/src/verily/sdk/VerilyAdditionalDataConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/run/VerilyConfigurationFactory.java" afterPath="$PROJECT_DIR$/src/verily/run/VerilyConfigurationFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/VerilyErrorLineMarkerProvider.java" afterPath="$PROJECT_DIR$/src/verily/VerilyErrorLineMarkerProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/util/VerilyExeUtil.java" afterPath="$PROJECT_DIR$/src/verily/util/VerilyExeUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/facet/VerilyFacet.java" afterPath="$PROJECT_DIR$/src/verily/facet/VerilyFacet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/facet/VerilyFacetConfiguration.java" afterPath="$PROJECT_DIR$/src/verily/facet/VerilyFacetConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/facet/VerilyFacetEditorTab.java" afterPath="$PROJECT_DIR$/src/verily/facet/VerilyFacetEditorTab.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/facet/VerilyFacetType.java" afterPath="$PROJECT_DIR$/src/verily/facet/VerilyFacetType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/util/VerilyFileUtil.java" afterPath="$PROJECT_DIR$/src/verily/util/VerilyFileUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/facet/VerilyFrameworkSupportProvider.java" afterPath="$PROJECT_DIR$/src/verily/facet/VerilyFrameworkSupportProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/framework/VerilyFrameworkType.java" afterPath="$PROJECT_DIR$/src/verily/framework/VerilyFrameworkType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VerilyIdeaPlugin.iml" afterPath="$PROJECT_DIR$/VerilyIdeaPlugin.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/library/VerilyLibraryType.java" afterPath="$PROJECT_DIR$/src/verily/library/VerilyLibraryType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/module/VerilyMavenModuleBuilder.java" afterPath="$PROJECT_DIR$/src/verily/module/VerilyMavenModuleBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/module/VerilyModuleBuilder.java" afterPath="$PROJECT_DIR$/src/verily/module/VerilyModuleBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/module/VerilyModuleType.java" afterPath="$PROJECT_DIR$/src/verily/module/VerilyModuleType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/sdk/VerilyNewSdkDialog.java" afterPath="$PROJECT_DIR$/src/verily/sdk/VerilyNewSdkDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/sdk/VerilyNewSdkForm.form" afterPath="$PROJECT_DIR$/src/verily/sdk/VerilyNewSdkForm.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/actions/VerilyRunApp.java" afterPath="$PROJECT_DIR$/src/verily/actions/VerilyRunApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/run/VerilyRunConfiguration.java" afterPath="$PROJECT_DIR$/src/verily/run/VerilyRunConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/run/VerilyRunConfigurationEditor.java" afterPath="$PROJECT_DIR$/src/verily/run/VerilyRunConfigurationEditor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/run/VerilyRunConfigurationType.java" afterPath="$PROJECT_DIR$/src/verily/run/VerilyRunConfigurationType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/sdk/VerilySdkType.java" afterPath="$PROJECT_DIR$/src/verily/sdk/VerilySdkType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/sdk/VerilySdkType2.java" afterPath="$PROJECT_DIR$/src/verily/sdk/VerilySdkType2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/sdk/VerilySdkUtils.java" afterPath="$PROJECT_DIR$/src/verily/sdk/VerilySdkUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/search/VerilySearchScope.java" afterPath="$PROJECT_DIR$/src/verily/search/VerilySearchScope.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/tools/VerilyToolWindow.java" afterPath="$PROJECT_DIR$/src/verily/tools/VerilyToolWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/tools/VerilyView.form" afterPath="$PROJECT_DIR$/src/verily/tools/VerilyView.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/verily/tools/VerilyView.java" afterPath="$PROJECT_DIR$/src/verily/tools/VerilyView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/META-INF/plugin.xml" afterPath="$PROJECT_DIR$/META-INF/plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resources/verily.xml" afterPath="$PROJECT_DIR$/src/resources/verily.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace (Destruction's conflicted copy 2013-10-11).xml" afterPath="$PROJECT_DIR$/.idea/workspace (Destruction's conflicted copy 2013-10-11).xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace (Destruction's conflicted copy 2013-10-18).xml" afterPath="$PROJECT_DIR$/.idea/workspace (Destruction's conflicted copy 2013-10-18).xml" />
+    </list>
+    <ignored path="VerilyIdeaPlugin.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401442456261" ignored="false" />
+    <file path="/plugin.xml" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1398284463248" ignored="false" />
+    <file path="/VerilyModuleType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382065856284" ignored="false" />
+    <file path="/fragment.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401170262035" ignored="false" />
+    <file path="/VerilyModuleBuilder.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381474762660" ignored="false" />
+    <file path="/VerilyFileType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381263275090" ignored="false" />
+    <file path="/VerilySdkType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383163539470" ignored="false" />
+    <file path="/ConfigureVerilySDK.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381381460762" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/untitled1/META-INF/plugin.xml" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381385429671" ignored="false" />
+    <file path="/VerilyFrameworkType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381385735974" ignored="false" />
+    <file path="/VerilyFrameworkSupportProvider.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381441999808" ignored="false" />
+    <file path="/a.dummy" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383351409937" ignored="false" />
+    <file path="/VerilyFacet.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381438152268" ignored="false" />
+    <file path="/VerilyFacetType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382059496574" ignored="false" />
+    <file path="/Constants.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382044549664" ignored="false" />
+    <file path="/VerilySearchScope.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381437845495" ignored="false" />
+    <file path="/VerilyFileUtil.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381438129971" ignored="false" />
+    <file path="/VerilyFacetConfiguration.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381438362386" ignored="false" />
+    <file path="/VerilyLibraryType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381440967549" ignored="false" />
+    <file path="$USER_HOME$/Downloads/wicketforge/src/wicketforge/library/WicketLibraryType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381441708378" ignored="false" />
+    <file path="/WicketLibraryType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381441700820" ignored="false" />
+    <file path="/VerilyToolWindow.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381454862130" ignored="false" />
+    <file path="/VerilyView.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381466885552" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/VerilyMain.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="/VerilyMain.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381458020469" ignored="false" />
+    <file path="/VerilyMavenModuleBuilder.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382083752109" ignored="false" />
+    <file path="/AddTemplateAction.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381473604757" ignored="false" />
+    <file path="/VerilyAddNewMethodRouterPair.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382071748756" ignored="false" />
+    <file path="/VerilyRunApp.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382558664109" ignored="false" />
+    <file path="/VerilyRunConfigurationType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382557122778" ignored="false" />
+    <file path="/VerilyRunConfiguration.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401153039799" ignored="false" />
+    <file path="/VerilyRunConfigurationEditor.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382465048507" ignored="false" />
+    <file path="/ProgramParamsPanel.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401153001934" ignored="false" />
+    <file path="$USER_HOME$/Downloads/ideah-read-only/src/java/ideah/run/ProgramParamsPanel.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381780902833" ignored="false" />
+    <file path="$PROJECT_DIR$/../../JavaScratch/src/FilePathtests.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381949291652" ignored="false" />
+    <file path="/FilePathtests.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1381949290787" ignored="false" />
+    <file path="/ConfigureVerilySDKWizardStep.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382051237484" ignored="false" />
+    <file path="/ConfigureVerilySDKPanel.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382051112284" ignored="false" />
+    <file path="/ConfigureProjectVerilySDK.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382055458260" ignored="false" />
+    <file path="/VerilyAdditionalDataConfiguration.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382062484331" ignored="false" />
+    <file path="/VerilyExeUtil.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401152215365" ignored="false" />
+    <file path="/VerilyConfigurationFactory.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1382557655063" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/TestMain.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176986" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/verily/lang/TextContent.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176986" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/core/Verily.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/reification/VerilyClassLoader.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/exceptions/VerilyCompileFailedException.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/pom.xml" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/content/ApplicationMessages.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/core/VerilyContainer.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1384537769576" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/pom.xml" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/core/VerilyEnv.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/pom.xml" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/core/VerilyLog.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/reification/MemoryBackedSession.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/VerilyMethod.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/verily/lang/Content.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/reification/Context.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/reification/Env.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/reification/VerilyModificationWatcher.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/VerilyParserModes.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/VerilyTable.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/VerilyType.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/ExtractClassInfoListener.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176988" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/verily/lang/HTMLContent.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/resources/classes/POM.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/utils/VerilyUtil.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383349954805" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/WritableValue.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/resources/verily/layouts/verily.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/exceptions/InitException.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/test/java/PwEUtilTest.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/exceptions/InvalidFormalArgumentsException.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/verily/lang/JSONContent.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/JavaBaseListener.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176989" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/JavaLexer.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176990" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/JavaListener.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176990" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/JavaParser.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176990" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/verily/lang/ReadableValue.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176990" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/resources/classes/Router.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176990" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/resources/verily/core.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176990" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/reification/Session.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176990" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/content/TemplateFactory.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1384536098271" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/java/verily/lang/TemplateHTMLContent.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383084176990" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/stubs/update_path.bat" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383348428074" ignored="false" />
+    <file path="/update_path.bat" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383348428074" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/package.sh" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383085619323" ignored="false" />
+    <file path="/package.sh" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383085076543" ignored="false" />
+    <file path="/VerilyUtil.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383349947793" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/installer/install.xml" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383346784181" ignored="false" />
+    <file path="/install.xml" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383346784181" ignored="false" />
+    <file path="/verily.bat" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383346243873" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/parser/src/main/java/core/Harness.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383349195781" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/resources/verily/layouts/simple.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1384540680315" ignored="false" />
+    <file path="/simple.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1383351434144" ignored="false" />
+    <file path="$PROJECT_DIR$/../Verily/core/src/main/resources/verily/app.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1384537803577" ignored="false" />
+    <file path="/app.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1384536703601" ignored="false" />
+    <file path="/VerilyContainer.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1384537768204" ignored="false" />
+    <file path="/VerilyErrorLineMarkerProvider.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1398284618965" ignored="false" />
+    <file path="/*.regexp" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401152627173" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/src/main/java/methods/Auction.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179966604" ignored="false" />
+    <file path="/Auction.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179346812" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/src/main/java/app/AuctionItemModel.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179966603" ignored="false" />
+    <file path="/AuctionItemModel.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401177100770" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/src/main/java/routers/Auction.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179966604" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/src/main/resources/ViewItemResponse.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179633093" ignored="false" />
+    <file path="/ViewItemResponse.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179631470" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/.verily/gen/src/main/java/routers/Auction.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179966604" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/.verily/gen/src/main/java/app/AuctionItemModel.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401177161050" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/src/main/resources/InvalidBidResponse.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179390965" ignored="false" />
+    <file path="/InvalidBidResponse.ftl" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179193670" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/src/main/java/methods/AuctionItemModel.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179867317" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/.verily/gen/src/main/java/methods/Auction.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179892460" ignored="false" />
+    <file path="$USER_HOME$/Projects/VerilyBidding/.verily/gen/src/main/java/methods/AuctionProxy.java" changelist="14a93007-e931-4837-a493-5146b3697cf5" time="1401179892460" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/actions/VerilyAddPairAction.java" line="27" class="verily.actions.VerilyAddPairAction" package="verily.actions">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/actions/AddTemplateAction.java" line="23" class="verily.actions.AddTemplateAction" package="verily.actions">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/util/VerilyExeUtil.java" line="60" class="verily.util.VerilyExeUtil" package="verily.util">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/actions/VerilyAddNewMethodRouterPair.java" line="53" class="verily.actions.VerilyAddNewMethodRouterPair" package="verily.actions">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/actions/VerilyAddNewMethodRouterPair.java" line="56" class="verily.actions.VerilyAddNewMethodRouterPair$1" package="verily.actions">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/module/VerilyMavenModuleBuilder.java" line="129" class="verily.module.VerilyMavenModuleBuilder" package="verily.module">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/module/VerilyMavenModuleBuilder.java" line="164" class="verily.module.VerilyMavenModuleBuilder$1" package="verily.module">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/sdk/VerilySdkType.java" line="34" class="verily.sdk.VerilySdkType" package="verily.sdk">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/sdk/VerilySdkType.java" line="202" class="verily.sdk.VerilySdkType" package="verily.sdk">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/sdk/VerilySdkType.java" line="244" class="verily.sdk.VerilySdkType" package="verily.sdk">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/verily/sdk/VerilySdkType.java" line="207" class="verily.sdk.VerilySdkType" package="verily.sdk">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://C:/Program Files (x86)/JetBrains/intellij-community-idea-129.134/intellij-community-idea-129.134/java/compiler/impl/src/com/intellij/compiler/server/BuildManager.java" line="685" class="com.intellij.compiler.server.BuildManager" package="com.intellij.compiler.server">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="VerilyIdeaPlugin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AddTemplateAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/verily/actions/AddTemplateAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="23" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerilyAddNewMethodRouterPair.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/verily/actions/VerilyAddNewMethodRouterPair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="33" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="113" selection-start="2866" selection-end="2866" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerilyErrorLineMarkerProvider.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/verily/VerilyErrorLineMarkerProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="14" selection-start="1574" selection-end="1574" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerilyExeUtil.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/verily/util/VerilyExeUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="24" selection-start="2660" selection-end="2660" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProgramParamsPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="65" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigureVerilySDK.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/verily/ConfigureVerilySDK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProgramParamsPanel.form" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerilyRunConfiguration.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/verily/run/VerilyRunConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="212" column="43" selection-start="7980" selection-end="7980" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scope_settings.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/scopes/scope_settings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/verily/sdk/VerilyNewSdkDialog.java" />
+        <option value="$PROJECT_DIR$/src/verily/sdk/VerilyNewSdkForm.form" />
+        <option value="$PROJECT_DIR$/src/verily/module/VerilyModuleType.java" />
+        <option value="$PROJECT_DIR$/src/verily/actions/VerilyAddNewMethodRouterPair.java" />
+        <option value="$PROJECT_DIR$/src/verily/module/VerilyMavenModuleBuilder.java" />
+        <option value="$PROJECT_DIR$/src/verily/run/VerilyRunConfigurationEditor.java" />
+        <option value="$PROJECT_DIR$/src/verily/run/VerilyRunConfigurationType.java" />
+        <option value="$PROJECT_DIR$/src/verily/run/VerilyConfigurationFactory.java" />
+        <option value="$PROJECT_DIR$/src/verily/actions/VerilyRunApp.java" />
+        <option value="$PROJECT_DIR$/src/verily/sdk/VerilySdkType.java" />
+        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/verily/VerilyErrorLineMarkerProvider.java" />
+        <option value="$PROJECT_DIR$/src/verily/util/VerilyExeUtil.java" />
+        <option value="$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.form" />
+        <option value="$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.java" />
+        <option value="$PROJECT_DIR$/src/verily/run/VerilyRunConfiguration.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="699" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Encapsulation issues</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>GPath inspectionsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Play</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="verily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="verily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wizard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="verily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="verily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerilyIdeaPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="VerilyIdeaPlugin">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/verily/module" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="verily.run" />
+      <recent name="verily.facet" />
+      <recent name="verily.module" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/icons" />
+      <recent name="$PROJECT_DIR$/src/verily/" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Plugin.VerilyPluginRun">
+    <configuration default="false" name="ConfigureVerilySDK" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="verily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="verily.ConfigureVerilySDK" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VerilyIdeaPlugin" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerilyExeUtil" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="verily.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="verily.util.VerilyExeUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VerilyIdeaPlugin" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="VerilyIdeaPlugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerilyPluginRun" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="VerilyIdeaPlugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <log_file path="$USER_HOME$/.IntelliJIdea12/system/plugins-sandbox/system/log/idea.log" checked="false" skipped="true" show_all="false" alias="IDEA LOG" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Plugin.VerilyPluginRun" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ConfigureVerilySDK" />
+      <item index="2" class="java.lang.String" itemvalue="Application.VerilyExeUtil" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.VerilyExeUtil" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ConfigureVerilySDK" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a93007-e931-4837-a493-5146b3697cf5" name="Default" comment="" />
+      <created>1381261905097</created>
+      <updated>1381261905097</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial import">
+      <created>1383180255624</created>
+      <updated>1383180255624</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PSI Inspection">
+      <created>1398284796638</created>
+      <updated>1398284796638</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="699" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.84574467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24919957" sideWeight="0.69778633" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21428572" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14409222" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Verily Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.7922201" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15316045" sideWeight="0.15425532" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17324351" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23585913" sideWeight="0.69778633" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30221367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33070865" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="PSI Inspection" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Initial import" />
+    <MESSAGE value="PSI Inspection" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Program Files (x86)/JetBrains/intellij-community-idea-129.134/intellij-community-idea-129.134/platform/lang-impl/src/com/intellij/execution/impl/ExecutionManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="258" column="0" selection-start="10634" selection-end="10634" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/JetBrains/intellij-community-idea-129.134/intellij-community-idea-129.134/platform/lang-impl/src/com/intellij/execution/ProgramRunnerUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="0" selection-start="4675" selection-end="4675" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/JetBrains/intellij-community-idea-129.134/intellij-community-idea-129.134/java/execution/impl/src/com/intellij/execution/impl/DefaultJavaProgramRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="2739" selection-end="2739" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/JetBrains/intellij-community-idea-129.134/intellij-community-idea-129.134/platform/lang-api/src/com/intellij/execution/runners/GenericProgramRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="2393" selection-end="2393" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/JetBrains/intellij-community-idea-129.134/intellij-community-idea-129.134/platform/lang-api/src/com/intellij/execution/configurations/CommandLineState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="3" selection-start="2763" selection-end="2763" vertical-scroll-proportion="0.9989594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/actions/AddTemplateAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="23" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/actions/VerilyAddNewMethodRouterPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="33" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="113" selection-start="2866" selection-end="2866" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/VerilyErrorLineMarkerProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="14" selection-start="1574" selection-end="1574" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/util/VerilyExeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="24" selection-start="2660" selection-end="2660" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/ConfigureVerilySDK.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/ConfigureVerilySDK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/run/ProgramParamsPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="65" selection-start="1580" selection-end="1580" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/verily/run/VerilyRunConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="43" selection-start="7980" selection-end="7980" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/scopes/scope_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grails-1.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>IDEA IC-129.1359</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VerilyIdeaPlugin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>IDEA IC-129.1359</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven Stuff</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

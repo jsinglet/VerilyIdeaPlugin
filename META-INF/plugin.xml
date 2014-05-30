@@ -64,5 +64,7 @@
         <configurationType implementation="verily.run.VerilyRunConfigurationType"/>
 
         <!--<projectConfigurable instance="verily.wizard.ConfigureProjectVerilySDK" />-->
+        <codeInsight.lineMarkerProvider language="JAVA" implementationClass="verily.VerilyErrorLineMarkerProvider"/>
+
     </extensions>
 </idea-plugin>

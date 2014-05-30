@@ -47,6 +47,8 @@ public class VerilyRunConfiguration extends ModuleBasedConfiguration<RunConfigur
     private boolean dynamicallyReloadClasses;
     private String workDir;
     public boolean passParentEnv = true;
+    private boolean disableStaticChecking;
+    private boolean enableContracts;
 
     private final Map<String, String> envs = new LinkedHashMap<String, String>();
 
@@ -60,6 +62,7 @@ public class VerilyRunConfiguration extends ModuleBasedConfiguration<RunConfigur
         reloadDeps = true;
         launchBrowser = true;
         dynamicallyReloadClasses = true;
+        disableStaticChecking = true;
         this.factory = factory;
 
         // needed to find the configuration module
@@ -200,6 +203,14 @@ public class VerilyRunConfiguration extends ModuleBasedConfiguration<RunConfigur
                 // this is on by default
                 if(config.isReloadDeps()==false){
                     args.add("-fast");
+                }
+
+                if(config.isDisableStaticChecking()){
+                    args.add("-nostatic");
+                }
+
+                if(config.isEnableContracts()){
+                    args.add("-contracts");
                 }
 
                 GeneralCommandLine gcl = new GeneralCommandLine(args);
@@ -386,7 +397,21 @@ public class VerilyRunConfiguration extends ModuleBasedConfiguration<RunConfigur
         this.dynamicallyReloadClasses = dynamicallyReloadClasses;
     }
 
+    public boolean isDisableStaticChecking() {
+        return disableStaticChecking;
+    }
 
+    public void setDisableStaticChecking(boolean disableStaticChecking) {
+        this.disableStaticChecking = disableStaticChecking;
+    }
+
+    public boolean isEnableContracts() {
+        return enableContracts;
+    }
+
+    public void setEnableContracts(boolean enableContracts) {
+        this.enableContracts = enableContracts;
+    }
 
 
     ///
