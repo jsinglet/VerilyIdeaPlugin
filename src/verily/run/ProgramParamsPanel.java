@@ -29,6 +29,11 @@ public class ProgramParamsPanel {
         openBrowserAtLaunchCheckBox.setSelected(s.isLaunchBrowser());
         doNotRecalculateDependenciesCheckBox.setSelected(!s.isReloadDeps());
         jvmOptions.setText(s.getJvmOptions());
+
+
+        disableStaticCheckingCheckBox.setSelected(s.isDisableStaticChecking());
+        enableContractsCheckBox.setSelected(s.isEnableContracts());
+
     }
 
     protected void applyEditorTo(VerilyRunConfiguration s){
